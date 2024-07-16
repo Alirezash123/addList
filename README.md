@@ -15,4 +15,4 @@ https://t.me/addlist/R5vIkZL7VDQ2YTY0
 
 
 
-@add_list_bot
+
